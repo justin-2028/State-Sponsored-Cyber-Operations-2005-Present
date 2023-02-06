@@ -27,7 +27,7 @@ All data are official figures from the **Council of Foreign Relations** that hav
 - Sources_3: Source #3 that reported the cyber operation, if any.
 
 # Dataset History
-2023-02-06 - dataset is created (17 years after the coverage start date).
+2023-02-06 - Dataset is created (17 years after the coverage start date).
 
 [Kaggle Dataset](https://www.kaggle.com/datasets/justin2028/state-sponsored-cyber-operations-2005-present) - The same data but on Kaggle.
 
